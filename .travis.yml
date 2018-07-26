@@ -4,4 +4,4 @@ services:
   - docker
 
 script:
-  - docker build -tlandscape-server .
+  - docker build -t landscape-server .
