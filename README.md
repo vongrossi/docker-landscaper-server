@@ -1,6 +1,8 @@
 # Ubuntu LandScape Docker Container
 
 [![Build Status](https://travis-ci.org/vongrossi/docker-landscaper-server.svg?branch=master)](https://travis-ci.org/vongrossi/docker-landscaper-server)
+[![Build Status](https://travis-ci.org/vongrossi/docker-landscaper-server.svg?branch=develop)](https://travis-ci.org/vongrossi/docker-landscaper-server)
+
 
 
 This container runs the Ubuntu landscape server components
